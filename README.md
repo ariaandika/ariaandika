@@ -1,9 +1,10 @@
-Project Highlights
+Projects
 
 - [Trayle](https://github.com/ariaandika/trayle), an attempt on wayland compositor and low level linux interface
-- [Vice](https://github.com/ariaandika/vice), conventional http and ws server
+- [Tsue](https://github.com/ariaandika/tsue), conventional http and ws server
 - [Tour](https://github.com/ariaandika/tour), rust html templating
 - [Prei](https://github.com/ariaandika/prei), generate typescript type from rust struct 
+- [Qscv](https://github.com/ariaandika/prei), postgres driver
 
 Configs
 
