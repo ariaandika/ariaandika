@@ -4,7 +4,8 @@ Projects
 - [Tsue](https://github.com/ariaandika/tsue), conventional http and ws server
 - [Tour](https://github.com/ariaandika/tour), rust html templating
 - [Prei](https://github.com/ariaandika/prei), generate typescript type from rust struct 
-- [Qscv](https://github.com/ariaandika/prei), postgres driver
+- [Qs](https://github.com/ariaandika/qs), postgres driver
+- [RhoSQL](https://github.com/ariaandika/rhosql), sqlite driver
 
 Configs
 
